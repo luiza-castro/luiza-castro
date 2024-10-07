@@ -1,16 +1,24 @@
-## Hi there 👋
+<div align="center" > 
+  
+<img align="center" src="https://i.imgur.com/XUgQqbi.png"> 
+</div>
 
-<!--
-**luiza-castro/luiza-castro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="display: flex; flex-direction: row;">
+<div width="40%">
 
-Here are some ideas to get you started:
+<img width="390" align="left" src="./metrics/metrics.svg"> 
+</div>
+<div width="40%" >
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" width="390" src="./assets/first-text.svg"> 
+<img width="390" align="right" src="./metrics/spotify.svg"> 
+
+</div>
+</div>
+<br> <br>
+
+
+<div style="display: flex; flex-direction: row;">
+<img align="left" width="390"  src="./assets/second-text.svg"> 
+<img align="right" width="390"  src=https://i.imgur.com/4KUqh7s.jpeg>
+</div>
